@@ -11,14 +11,15 @@ Các chủ đề tin tức bao gồm:
 - Khoa học & Công nghệ (Science and Technology)
   
 ```
-Train samples: 96,000
-Val samples: 24,000
-Test samples: 7,600
+Train samples: 96,000      Batch size: 128
+Val samples: 24,000        Số batch train: 750
+Test samples: 7,600        Số batch val: 188
+                           Số batch test: 60
 
-Batch size: 128
-Số batch train: 750
-Số batch val: 188
-Số batch test: 60
+Vocab size: 20,000        Num layers: 1
+Embedding dim: 100        Dropout rate: 0.3
+Hidden dim: 192           Num classes: 4
+Max sequence length: 60
 ```
 <img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/03f69c7d-ee66-471b-9acd-9cb494be59b4" />
 
