@@ -1,4 +1,4 @@
-## Mô hình đa lớp LSTM / Pytorch để phân loại dữ liệu chủ đề tin tức
+## Mô hình đa lớp LSTM / Pytorch cho dữ liệu chủ đề tin tức
 
 ```bash
 Thành viên: Nguyễn Bá Thành
