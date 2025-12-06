@@ -1,10 +1,10 @@
 ## Mô hình đa lớp LSTM / Pytorch để phân loại dữ liệu tin tức
 
-Các chủ đề bao gồm
-  -Thế giới (World)
-  -Thể thao (Sports)
-  -Kinh doanh (Business)
-  -Khoa học & Công nghệ (Science and Technology)
+Các chủ đề bao gồm: 
+- Thế giới (World)
+- Thể thao (Sports)
+- Kinh doanh (Business)
+- Khoa học & Công nghệ (Science and Technology)
   
 ```bash
 Thành viên: Nguyễn Bá Thành
