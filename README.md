@@ -20,6 +20,16 @@ Vocab size: 20,000         Num layers: 1
 Embedding dim: 100         Dropout rate: 0.3
 Hidden dim: 192            Num classes: 4
 Max sequence length: 60
+
+Loss function: CrossEntropyLoss
+Optimizer: Adam
+Learning rate: 0.0005
+Weight decay (L2): 0.0001
+LR Scheduler: ReduceLROnPlateau (factor=0.5, patience=2)
+Gradient clipping: max_norm=5.0
+Early stopping patience: 5 epochs
+Num epochs: 30
+
 ```
 <img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/03f69c7d-ee66-471b-9acd-9cb494be59b4" />
 
